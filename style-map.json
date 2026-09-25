@@ -1,0 +1,317 @@
+[
+  {
+    "number": 1,
+    "slug": "aj-daily-life-poster",
+    "name": "每日一张人生海报",
+    "style_id": "07",
+    "style_name": "波普立体书",
+    "case": "把展览见闻、AI 社区讨论和晚间共学排成一张海报。",
+    "url": "https://waytoagi.feishu.cn/docx/IKu4d0E3JoEb7GxAXTCctHBQnNb"
+  },
+  {
+    "number": 2,
+    "slug": "aj-weekly-seven-panel-comic",
+    "name": "一周七格漫画",
+    "style_id": "01",
+    "style_name": "像素梦境",
+    "case": "周一处理方案，周二参加会议，周三整理资料，周四发布 Skill，周五复盘。",
+    "url": "https://waytoagi.feishu.cn/docx/Myg2d1tR9o6oLTxdR9Kcnzq8neg"
+  },
+  {
+    "number": 3,
+    "slug": "aj-late-night-diary",
+    "name": "深夜版日记",
+    "style_id": "04",
+    "style_name": "荧光双色涂鸦",
+    "case": "23:18 还在整理文档标题，最后把明天要继续的事情写进清单。",
+    "url": "https://waytoagi.feishu.cn/docx/V8rLdQuWdou9xUxYMfuclGmanih"
+  },
+  {
+    "number": 4,
+    "slug": "aj-weekend-life-replay",
+    "name": "周末生活回放",
+    "style_id": "01",
+    "style_name": "像素梦境",
+    "case": "周末去看展、拍照，晚上参加共学，留下一个适合下周继续的想法。",
+    "url": "https://waytoagi.feishu.cn/docx/CXktdNal1of4HkxGLRKcUMvQnIh"
+  },
+  {
+    "number": 5,
+    "slug": "aj-mood-weather-map",
+    "name": "情绪天气图",
+    "style_id": "01",
+    "style_name": "像素梦境",
+    "case": "上午多云，下午放晴，夜间微风：用事件节奏画出一天的天气。",
+    "url": "https://waytoagi.feishu.cn/docx/YwTndPKrboRzAFxb3fWcMk2un8b"
+  },
+  {
+    "number": 6,
+    "slug": "aj-life-progress-bar",
+    "name": "人生进度条",
+    "style_id": "09",
+    "style_name": "城市荧光剪影",
+    "case": "项目方案已成形 70%，完成一次复盘，保留一个休息时段。",
+    "url": "https://waytoagi.feishu.cn/docx/Y5O5dW24BoVmYMx9FtRcAjS8noc"
+  },
+  {
+    "number": 7,
+    "slug": "aj-project-serial",
+    "name": "项目连续剧",
+    "style_id": "10",
+    "style_name": "透明证件卡档案",
+    "case": "第 03 集《把想法变成可运行的 Skill》：完成命名、案例和文档入口。",
+    "url": "https://waytoagi.feishu.cn/docx/N6LndxmvbocbXWxWhuZcx8W4nFe"
+  },
+  {
+    "number": 8,
+    "slug": "aj-meeting-comic",
+    "name": "会议变漫画",
+    "style_id": "06",
+    "style_name": "黑黄实验排版",
+    "case": "角色 A 确认直播入口，角色 B 补齐共享音频，旁白记录待核对事项。",
+    "url": "https://waytoagi.feishu.cn/docx/YvKvd6890oa6IjxJLHtco2AanVe"
+  },
+  {
+    "number": 9,
+    "slug": "aj-decision-archaeology",
+    "name": "决策考古档案",
+    "style_id": "09",
+    "style_name": "城市荧光剪影",
+    "case": "决定采用轻松日记模板，依据是读者更容易阅读，后续持续更新。",
+    "url": "https://waytoagi.feishu.cn/docx/GHDEdfcagovgdwxRmOwcwdaEnCe"
+  },
+  {
+    "number": 10,
+    "slug": "aj-idea-to-output-tracker",
+    "name": "灵感到成品追踪器",
+    "style_id": "02",
+    "style_name": "黑白日历拼格",
+    "case": "灵感：把一天做成漫画；草稿：七种风格；成品：写入飞书并每日更新。",
+    "url": "https://waytoagi.feishu.cn/docx/M4XwdKvyAo8Kx0xiUmRcG40ynqg"
+  },
+  {
+    "number": 11,
+    "slug": "aj-work-os-daily",
+    "name": "个人工作操作系统日报",
+    "style_id": "01",
+    "style_name": "像素梦境",
+    "case": "把一天的项目、工具、会议、文档与代理动作汇总成一页可读的工作日报。",
+    "url": "https://waytoagi.feishu.cn/docx/N70odGzRAoD1XvxEFrbcIjBFnkg"
+  },
+  {
+    "number": 12,
+    "slug": "aj-collaboration-map",
+    "name": "协作关系地图",
+    "style_id": "07",
+    "style_name": "波普立体书",
+    "case": "把实际协作事件整理为人物、项目与产出的关系网络。",
+    "url": "https://waytoagi.feishu.cn/docx/BCWYdEIkuoeLuixWqYZc2YlMnqc"
+  },
+  {
+    "number": 13,
+    "slug": "aj-task-story",
+    "name": "任务变故事",
+    "style_id": "12",
+    "style_name": "复古照片荧光涂鸦",
+    "case": "将任务动作编排成轻松的短故事，保留事实锚点。",
+    "url": "https://waytoagi.feishu.cn/docx/LR0ZdnUCJoDx3txq7gHcpdCCned"
+  },
+  {
+    "number": 14,
+    "slug": "aj-agent-battle-report",
+    "name": "Agent 工作战报",
+    "style_id": "10",
+    "style_name": "透明证件卡档案",
+    "case": "汇总本机各 Work Agent 的实际回合、分工和核验状态。",
+    "url": "https://waytoagi.feishu.cn/docx/KXGydg7kzoRpQkxC8uOcHCYrncg"
+  },
+  {
+    "number": 15,
+    "slug": "aj-agent-role-theater",
+    "name": "Agent 角色剧场",
+    "style_id": "04",
+    "style_name": "荧光双色涂鸦",
+    "case": "把多 Agent 协作过程改写成短小剧场，保留真实分工。",
+    "url": "https://waytoagi.feishu.cn/docx/Bsy0ddriYohQAAxIXafc9cC5n0d"
+  },
+  {
+    "number": 16,
+    "slug": "aj-ai-usage-growth",
+    "name": "AI 使用成长档案",
+    "style_id": "06",
+    "style_name": "黑黄实验排版",
+    "case": "记录 AI 使用方式、提示词修订和结果反馈，形成成长曲线。",
+    "url": "https://waytoagi.feishu.cn/docx/LcFmd4p26ogvUExF9cncGSO9nqe"
+  },
+  {
+    "number": 17,
+    "slug": "aj-multi-agent-debate",
+    "name": "多 Agent 辩论记录",
+    "style_id": "08",
+    "style_name": "软体字角色海报",
+    "case": "组织多个 Agent 围绕具体议题提出方案、互评并记录结论。",
+    "url": "https://waytoagi.feishu.cn/docx/FHcOdU5eDo0UkbxdDPFcXEhEnme"
+  },
+  {
+    "number": 18,
+    "slug": "aj-agent-retro-card",
+    "name": "Agent 失误复盘卡",
+    "style_id": "04",
+    "style_name": "荧光双色涂鸦",
+    "case": "把 Agent 的误解、重复、遗漏与返工整理为可执行复盘卡。",
+    "url": "https://waytoagi.feishu.cn/docx/TCYUd2zLwoQhU4xipK9cp8ImnUe"
+  },
+  {
+    "number": 19,
+    "slug": "aj-prompt-atlas",
+    "name": "个人提示词图鉴",
+    "style_id": "03",
+    "style_name": "蜡笔拼贴",
+    "case": "收集有效提示词，按场景沉淀成可检索图鉴。",
+    "url": "https://waytoagi.feishu.cn/docx/U0XSd1AiXoeQydxDJbnc9D6DnGI"
+  },
+  {
+    "number": 20,
+    "slug": "aj-ai-incubator-log",
+    "name": "AI 项目孵化日志",
+    "style_id": "06",
+    "style_name": "黑黄实验排版",
+    "case": "记录 AI 项目的假设、实验、反馈、版本和下一步。",
+    "url": "https://waytoagi.feishu.cn/docx/TIK8dIrM5oRCxbxGS6aci4t5nqe"
+  },
+  {
+    "number": 21,
+    "slug": "aj-pixel-day-map",
+    "name": "每日像素地图",
+    "style_id": "09",
+    "style_name": "城市荧光剪影",
+    "case": "将探展、整理照片、写摘要和讨论分别放入时间轴像素格，标记高能、切换和空白时段。",
+    "url": "https://waytoagi.feishu.cn/docx/GMhMdD4JhoNvk5xioAJc1n4wnAH"
+  },
+  {
+    "number": 22,
+    "slug": "aj-daily-pop-up-book",
+    "name": "每日立体书",
+    "style_id": "13",
+    "style_name": "橙色生活分镜",
+    "case": "以“现场页、整理页、回看页”三层展开当天活动记录，每层保留动作、结果和来源。",
+    "url": "https://waytoagi.feishu.cn/docx/X2Sfdx5IUoawoOxbQo9ckoapnGb"
+  },
+  {
+    "number": 23,
+    "slug": "aj-annual-growth-comic",
+    "name": "年度成长漫画",
+    "style_id": "02",
+    "style_name": "黑白日历拼格",
+    "case": "汇总阶段性项目、能力变化和关键转折，绘制四幕年度成长线，缺少证据的年份节点标记待补。",
+    "url": "https://waytoagi.feishu.cn/docx/OwEmdmWyhoXAcZxJK4GcfqYjnCc"
+  },
+  {
+    "number": 24,
+    "slug": "aj-work-life-dual-channel",
+    "name": "工作与生活双频道",
+    "style_id": "07",
+    "style_name": "波普立体书",
+    "case": "将工作中的文档整理与生活中的可见活动分别列入双频道；无生活素材时明确留白。",
+    "url": "https://waytoagi.feishu.cn/docx/FiNDdOGztoAD9Ux6FCqcFpfTnnc"
+  },
+  {
+    "number": 25,
+    "slug": "aj-object-metaphor",
+    "name": "今天的物品隐喻",
+    "style_id": "08",
+    "style_name": "软体字角色海报",
+    "case": "从当日记录选择照片、耳机或笔作为隐喻，说明它与实际动作的对应关系，并附事实锚点。",
+    "url": "https://waytoagi.feishu.cn/docx/HttldTJbWoUUvtxgotbc2Cl1n8d"
+  },
+  {
+    "number": 26,
+    "slug": "aj-chat-bubble-poster",
+    "name": "聊天气泡海报",
+    "style_id": "07",
+    "style_name": "波普立体书",
+    "case": "抽取当天对话中可公开的目标、追问、确认三类句子，按气泡层级排列，敏感内容脱敏。",
+    "url": "https://waytoagi.feishu.cn/docx/JUB4dJiKHonQgsxM3Wnc1HZHnKf"
+  },
+  {
+    "number": 27,
+    "slug": "aj-digital-museum",
+    "name": "数字博物馆",
+    "style_id": "06",
+    "style_name": "黑黄实验排版",
+    "case": "为活动记录、文档版本和图卡各建展柜，写展签、时间和来源，区分原件与复制品。",
+    "url": "https://waytoagi.feishu.cn/docx/JO2hdlrI3oBUyCxWS3BcxPWpn3b"
+  },
+  {
+    "number": 28,
+    "slug": "aj-personal-city-guide",
+    "name": "个人城市导览图",
+    "style_id": "04",
+    "style_name": "荧光双色涂鸦",
+    "case": "把项目当作街区、会议当作广场、文档当作地标，依据真实事件绘制一条当日路线。",
+    "url": "https://waytoagi.feishu.cn/docx/YJoydHDYQojHjIxZXRlcWrcynpf"
+  },
+  {
+    "number": 29,
+    "slug": "aj-moments-ready-card",
+    "name": "一键生成朋友圈版",
+    "style_id": "01",
+    "style_name": "像素梦境",
+    "case": "从已核实素材筛选一张图、三句短文和一个来源提示，避免夸大成果与补造生活。",
+    "url": "https://waytoagi.feishu.cn/docx/A0E0dQXoSoyKEWxJTnmcdvfanDb"
+  },
+  {
+    "number": 30,
+    "slug": "aj-team-weekly-comic",
+    "name": "团队周刊漫画版",
+    "style_id": "09",
+    "style_name": "城市荧光剪影",
+    "case": "按周汇总多人实际动作和交付，区分个人贡献、协作结果与待核对事项，形成四格周刊。",
+    "url": "https://waytoagi.feishu.cn/docx/FG15d3Yj0oW82gxQl5TcPZKwnUe"
+  },
+  {
+    "number": 31,
+    "slug": "aj-personal-brand-growth-book",
+    "name": "个人品牌成长册",
+    "style_id": "13",
+    "style_name": "橙色生活分镜",
+    "case": "从一周发布、项目产出和反馈中提取可核验的主题线，整理为品牌成长册的一页。",
+    "url": "https://waytoagi.feishu.cn/docx/UFMwdj25voJMxaxfcZ8cIloJnth"
+  },
+  {
+    "number": 32,
+    "slug": "aj-event-live-comic",
+    "name": "活动现场漫画速报",
+    "style_id": "02",
+    "style_name": "黑白日历拼格",
+    "case": "按时间抽取现场观察、人物动作、关键引语和即时产出，生成四格速报，未确认信息标注现场待核。",
+    "url": "https://waytoagi.feishu.cn/docx/WDYkdzECLoqT5RxlWcvcNLrqnWf"
+  },
+  {
+    "number": 33,
+    "slug": "aj-creator-monthly",
+    "name": "创作者月刊",
+    "style_id": "12",
+    "style_name": "复古照片荧光涂鸦",
+    "case": "汇总本月文章、图卡、文档和修订记录，提炼三个主题、两次返工和一个代表作。",
+    "url": "https://waytoagi.feishu.cn/docx/UwZIdIVUmoK1f3x8zfAc8akxnuf"
+  },
+  {
+    "number": 34,
+    "slug": "aj-failure-rework-museum",
+    "name": "失败与返工博物馆",
+    "style_id": "09",
+    "style_name": "城市荧光剪影",
+    "case": "记录一次初稿范围偏差、一次来源缺口和对应修正，展示原稿、修订和经验展签。",
+    "url": "https://waytoagi.feishu.cn/docx/N7lZdUR26o00Mlx53QYcGvRdnGf"
+  },
+  {
+    "number": 35,
+    "slug": "aj-annual-theme-word-card",
+    "name": "年度主题词卡",
+    "style_id": "05",
+    "style_name": "童趣粗线",
+    "case": "从项目、对话和作品中寻找重复出现的动作与关注点，提出主题词并列出三条证据。",
+    "url": "https://waytoagi.feishu.cn/docx/XLy1dc4CboDlJlxJV75cWJKqn9g"
+  }
+]
