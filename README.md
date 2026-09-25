@@ -51,3 +51,9 @@ The Skills separate verified actions, plans, assistant claims, and inaccessible 
 ## License
 
 MIT
+
+## 人物参考图 / Avatar reference
+
+14 个 Skill 会在使用前请求一张正面或半身人物参考图，14 个 Skill 将其作为可选增强，7 个 Skill 以事件、Agent 或信息结构为主，不要求人物图。完整清单见 [`avatar-guidance.json`](avatar-guidance.json)。未上传时，相关 Skill 会改用文字描述或抽象角色，不会假定用户的真实外貌。
+
+Fourteen Skills request a front-facing or half-body avatar reference before generation, fourteen treat it as an optional consistency boost, and seven focus on events, agents, or information structures and do not require a portrait. See [`avatar-guidance.json`](avatar-guidance.json) for the full list.
