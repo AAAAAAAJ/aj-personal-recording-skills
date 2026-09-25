@@ -323,7 +323,10 @@
     "image_file": "14-aj-agent-battle-report.png",
     "visual_updated": "2026-09-25",
     "avatar_guidance": "not_needed",
-    "avatar_reason": "核心是 Agent 回合、分工和核验状态，使用 Agent 名称或图标即可。"
+    "avatar_reason": "核心是 Agent 回合、分工和核验状态，使用 Agent 名称或图标即可。",
+    "density_review": "2026-09-25",
+    "density_status": "high",
+    "density_update": "补充事实节点、关系、状态或下一步信息"
   },
   {
     "slug": "aj-agent-role-theater",
@@ -395,7 +398,10 @@
     "image_file": "17-aj-multi-agent-debate.png",
     "visual_updated": "2026-09-25",
     "avatar_guidance": "not_needed",
-    "avatar_reason": "核心是多 Agent 观点、论据和结论，角色标签足以完成呈现。"
+    "avatar_reason": "核心是多 Agent 观点、论据和结论，角色标签足以完成呈现。",
+    "density_review": "2026-09-25",
+    "density_status": "high",
+    "density_update": "补充事实节点、关系、状态或下一步信息"
   },
   {
     "slug": "aj-agent-retro-card",
@@ -587,7 +593,10 @@
     "image_file": "25-aj-object-metaphor.png",
     "visual_updated": "2026-09-25",
     "avatar_guidance": "optional",
-    "avatar_reason": "物品隐喻以物品为主，用户形象可作为使用者或旁观者。"
+    "avatar_reason": "物品隐喻以物品为主，用户形象可作为使用者或旁观者。",
+    "density_review": "2026-09-25",
+    "density_status": "high",
+    "density_update": "补充事实节点、关系、状态或下一步信息"
   },
   {
     "slug": "aj-chat-bubble-poster",
@@ -611,7 +620,10 @@
     "image_file": "26-aj-chat-bubble-poster.png",
     "visual_updated": "2026-09-25",
     "avatar_guidance": "optional",
-    "avatar_reason": "聊天气泡海报可加入用户头像，也可仅使用发言标签和气泡。"
+    "avatar_reason": "聊天气泡海报可加入用户头像，也可仅使用发言标签和气泡。",
+    "density_review": "2026-09-25",
+    "density_status": "high",
+    "density_update": "补充事实节点、关系、状态或下一步信息"
   },
   {
     "slug": "aj-digital-museum",
@@ -707,7 +719,10 @@
     "image_file": "30-aj-team-weekly-comic.png",
     "visual_updated": "2026-09-25",
     "avatar_guidance": "optional",
-    "avatar_reason": "团队周刊可用用户头像作为团队成员之一，也可使用角色标签。"
+    "avatar_reason": "团队周刊可用用户头像作为团队成员之一，也可使用角色标签。",
+    "density_review": "2026-09-25",
+    "density_status": "high",
+    "density_update": "补充事实节点、关系、状态或下一步信息"
   },
   {
     "slug": "aj-personal-brand-growth-book",
@@ -803,7 +818,10 @@
     "image_file": "34-aj-failure-rework-museum.png",
     "visual_updated": "2026-09-25",
     "avatar_guidance": "not_needed",
-    "avatar_reason": "核心是失败版本和返工过程，藏品与版本证据优先。"
+    "avatar_reason": "核心是失败版本和返工过程，藏品与版本证据优先。",
+    "density_review": "2026-09-25",
+    "density_status": "high",
+    "density_update": "补充事实节点、关系、状态或下一步信息"
   },
   {
     "slug": "aj-annual-theme-word-card",
