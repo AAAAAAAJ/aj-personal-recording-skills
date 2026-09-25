@@ -1,6 +1,6 @@
 # 35 个案例 / 35 Case Documents
 
-每份案例都有一张按 [WaytoAGI Visual Style Library](https://github.com/AAAAAAAJ/waytoagi-visual-style-library) 随机风格生成的图示。 / Each case includes a visual card using a randomly selected style prompt from the library.
+每份案例都有一张按 [WaytoAGI Visual Style Library](https://github.com/AAAAAAAJ/waytoagi-visual-style-library) 随机 Prompt、由 Image 直接生成的 3:4 图示。/ Each case has a 3:4 visual generated directly with Image from a random library prompt.
 
 01. [每日一张人生海报](https://waytoagi.feishu.cn/docx/IKu4d0E3JoEb7GxAXTCctHBQnNb) · 风格：橙色生活分镜 / Style: 橙色生活分镜
     ![每日一张人生海报](case-images/01-aj-daily-life-poster.png)

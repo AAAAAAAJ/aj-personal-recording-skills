@@ -1,0 +1,177 @@
+[
+  {
+    "skill": "aj-daily-life-poster",
+    "avatar_required": "required",
+    "reason": "以用户本人作为一天活动海报的主角，人物连续性直接影响画面识别。"
+  },
+  {
+    "skill": "aj-weekly-seven-panel-comic",
+    "avatar_required": "required",
+    "reason": "七格漫画需要在一周不同场景中保持用户主角形象一致。"
+  },
+  {
+    "skill": "aj-late-night-diary",
+    "avatar_required": "required",
+    "reason": "深夜日记通常以用户本人状态和生活片段为视觉主体。"
+  },
+  {
+    "skill": "aj-weekend-life-replay",
+    "avatar_required": "required",
+    "reason": "周末回放依赖用户本人在活动、地点和生活场景中的形象。"
+  },
+  {
+    "skill": "aj-mood-weather-map",
+    "avatar_required": "required",
+    "reason": "情绪天气图若包含人物，需要用户形象来表达当天的状态变化。"
+  },
+  {
+    "skill": "aj-life-progress-bar",
+    "avatar_required": "required",
+    "reason": "人生进度条常用用户本人作为进度叙事角色，参考图有助于保持一致。"
+  },
+  {
+    "skill": "aj-project-serial",
+    "avatar_required": "required",
+    "reason": "项目连续剧需要用户作为主角贯穿多个项目节点和章节。"
+  },
+  {
+    "skill": "aj-meeting-comic",
+    "avatar_required": "optional",
+    "reason": "会议漫画可加入用户作为参与者，但会议内容本身也能独立成立。"
+  },
+  {
+    "skill": "aj-decision-archaeology",
+    "avatar_required": "not_needed",
+    "reason": "核心是决定、依据和后续结果，人物形象不会影响事实结构。"
+  },
+  {
+    "skill": "aj-idea-to-output-tracker",
+    "avatar_required": "optional",
+    "reason": "结果卡可以加入用户形象，但也能用抽象角色或图标表达。"
+  },
+  {
+    "skill": "aj-work-os-daily",
+    "avatar_required": "optional",
+    "reason": "工作日报可用用户头像帮助识别主线，也可用抽象工作台角色。"
+  },
+  {
+    "skill": "aj-collaboration-map",
+    "avatar_required": "optional",
+    "reason": "可用头像增强人物辨识度，没有上传时使用姓名、角色和节点即可。"
+  },
+  {
+    "skill": "aj-task-story",
+    "avatar_required": "optional",
+    "reason": "任务故事可让用户担任叙事主角，也可使用抽象角色。"
+  },
+  {
+    "skill": "aj-agent-battle-report",
+    "avatar_required": "not_needed",
+    "reason": "核心是 Agent 回合、分工和核验状态，使用 Agent 名称或图标即可。"
+  },
+  {
+    "skill": "aj-agent-role-theater",
+    "avatar_required": "not_needed",
+    "reason": "核心是多个 Agent 的角色和台词，用户头像不是必要输入。"
+  },
+  {
+    "skill": "aj-ai-usage-growth",
+    "avatar_required": "optional",
+    "reason": "成长曲线可用用户形象建立连续性，也可只展示提示词和产出。"
+  },
+  {
+    "skill": "aj-multi-agent-debate",
+    "avatar_required": "not_needed",
+    "reason": "核心是多 Agent 观点、论据和结论，角色标签足以完成呈现。"
+  },
+  {
+    "skill": "aj-agent-retro-card",
+    "avatar_required": "not_needed",
+    "reason": "核心是误解、遗漏和返工证据，人物形象不会改变复盘结果。"
+  },
+  {
+    "skill": "aj-prompt-atlas",
+    "avatar_required": "not_needed",
+    "reason": "核心是提示词、场景和有效结果，使用分类标签与示例即可。"
+  },
+  {
+    "skill": "aj-ai-incubator-log",
+    "avatar_required": "optional",
+    "reason": "孵化日志可用用户作为创作者角色，也可用项目图标和阶段卡片。"
+  },
+  {
+    "skill": "aj-pixel-day-map",
+    "avatar_required": "optional",
+    "reason": "像素地图可加入用户像素角色，但时间轴和图例可独立表达。"
+  },
+  {
+    "skill": "aj-daily-pop-up-book",
+    "avatar_required": "required",
+    "reason": "立体书式日记通常把用户本人放进分层生活场景。"
+  },
+  {
+    "skill": "aj-annual-growth-comic",
+    "avatar_required": "required",
+    "reason": "年度成长漫画需要同一人物跨时间保持视觉连续性。"
+  },
+  {
+    "skill": "aj-work-life-dual-channel",
+    "avatar_required": "required",
+    "reason": "工作与生活双频道需要用户在两条叙事线中保持同一形象。"
+  },
+  {
+    "skill": "aj-object-metaphor",
+    "avatar_required": "optional",
+    "reason": "物品隐喻以物品为主，用户形象可作为使用者或旁观者。"
+  },
+  {
+    "skill": "aj-chat-bubble-poster",
+    "avatar_required": "optional",
+    "reason": "聊天气泡海报可加入用户头像，也可仅使用发言标签和气泡。"
+  },
+  {
+    "skill": "aj-digital-museum",
+    "avatar_required": "optional",
+    "reason": "数字博物馆以藏品和版本为主，用户形象属于可选策展人元素。"
+  },
+  {
+    "skill": "aj-personal-city-guide",
+    "avatar_required": "required",
+    "reason": "个人城市导览常把用户作为路线中的行走角色或导览者。"
+  },
+  {
+    "skill": "aj-moments-ready-card",
+    "avatar_required": "required",
+    "reason": "瞬间卡片以用户的真实瞬间为核心，人物参考图能提升还原度。"
+  },
+  {
+    "skill": "aj-team-weekly-comic",
+    "avatar_required": "optional",
+    "reason": "团队周刊可用用户头像作为团队成员之一，也可使用角色标签。"
+  },
+  {
+    "skill": "aj-personal-brand-growth-book",
+    "avatar_required": "required",
+    "reason": "个人品牌成长册以用户作为品牌主体和长期角色。"
+  },
+  {
+    "skill": "aj-event-live-comic",
+    "avatar_required": "optional",
+    "reason": "活动速报可加入用户现场形象，但场景、展台和事件信息更重要。"
+  },
+  {
+    "skill": "aj-creator-monthly",
+    "avatar_required": "required",
+    "reason": "创作者月刊常呈现用户本人创作、工作和生活中的连续形象。"
+  },
+  {
+    "skill": "aj-failure-rework-museum",
+    "avatar_required": "not_needed",
+    "reason": "核心是失败版本和返工过程，藏品与版本证据优先。"
+  },
+  {
+    "skill": "aj-annual-theme-word-card",
+    "avatar_required": "optional",
+    "reason": "主题词卡可加入用户作为主题发现者，也可用抽象符号完成。"
+  }
+]
