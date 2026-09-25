@@ -2,25 +2,25 @@
 
 每份案例都有一张按 [WaytoAGI Visual Style Library](https://github.com/AAAAAAAJ/waytoagi-visual-style-library) 随机风格生成的图示。 / Each case includes a visual card using a randomly selected style prompt from the library.
 
-01. [每日一张人生海报](https://waytoagi.feishu.cn/docx/IKu4d0E3JoEb7GxAXTCctHBQnNb) · 风格：波普立体书 / Style: 波普立体书
+01. [每日一张人生海报](https://waytoagi.feishu.cn/docx/IKu4d0E3JoEb7GxAXTCctHBQnNb) · 风格：橙色生活分镜 / Style: 橙色生活分镜
     ![每日一张人生海报](case-images-restyled/01-aj-daily-life-poster.png)
-02. [一周七格漫画](https://waytoagi.feishu.cn/docx/Myg2d1tR9o6oLTxdR9Kcnzq8neg) · 风格：像素梦境 / Style: 像素梦境
+02. [一周七格漫画](https://waytoagi.feishu.cn/docx/Myg2d1tR9o6oLTxdR9Kcnzq8neg) · 风格：波普立体书 / Style: 波普立体书
     ![一周七格漫画](case-images-restyled/02-aj-weekly-seven-panel-comic.png)
-03. [深夜版日记](https://waytoagi.feishu.cn/docx/V8rLdQuWdou9xUxYMfuclGmanih) · 风格：荧光双色涂鸦 / Style: 荧光双色涂鸦
+03. [深夜版日记](https://waytoagi.feishu.cn/docx/V8rLdQuWdou9xUxYMfuclGmanih) · 风格：软体字角色海报 / Style: 软体字角色海报
     ![深夜版日记](case-images-restyled/03-aj-late-night-diary.png)
-04. [周末生活回放](https://waytoagi.feishu.cn/docx/CXktdNal1of4HkxGLRKcUMvQnIh) · 风格：像素梦境 / Style: 像素梦境
+04. [周末生活回放](https://waytoagi.feishu.cn/docx/CXktdNal1of4HkxGLRKcUMvQnIh) · 风格：复古照片荧光涂鸦 / Style: 复古照片荧光涂鸦
     ![周末生活回放](case-images-restyled/04-aj-weekend-life-replay.png)
-05. [情绪天气图](https://waytoagi.feishu.cn/docx/YwTndPKrboRzAFxb3fWcMk2un8b) · 风格：像素梦境 / Style: 像素梦境
+05. [情绪天气图](https://waytoagi.feishu.cn/docx/YwTndPKrboRzAFxb3fWcMk2un8b) · 风格：黑白日历拼格 / Style: 黑白日历拼格
     ![情绪天气图](case-images-restyled/05-aj-mood-weather-map.png)
-06. [人生进度条](https://waytoagi.feishu.cn/docx/Y5O5dW24BoVmYMx9FtRcAjS8noc) · 风格：城市荧光剪影 / Style: 城市荧光剪影
+06. [人生进度条](https://waytoagi.feishu.cn/docx/Y5O5dW24BoVmYMx9FtRcAjS8noc) · 风格：黑白日历拼格 / Style: 黑白日历拼格
     ![人生进度条](case-images-restyled/06-aj-life-progress-bar.png)
-07. [项目连续剧](https://waytoagi.feishu.cn/docx/N6LndxmvbocbXWxWhuZcx8W4nFe) · 风格：透明证件卡档案 / Style: 透明证件卡档案
+07. [项目连续剧](https://waytoagi.feishu.cn/docx/N6LndxmvbocbXWxWhuZcx8W4nFe) · 风格：黑黄实验排版 / Style: 黑黄实验排版
     ![项目连续剧](case-images-restyled/07-aj-project-serial.png)
-08. [会议变漫画](https://waytoagi.feishu.cn/docx/YvKvd6890oa6IjxJLHtco2AanVe) · 风格：黑黄实验排版 / Style: 黑黄实验排版
+08. [会议变漫画](https://waytoagi.feishu.cn/docx/YvKvd6890oa6IjxJLHtco2AanVe) · 风格：透明证件卡档案 / Style: 透明证件卡档案
     ![会议变漫画](case-images-restyled/08-aj-meeting-comic.png)
-09. [决策考古档案](https://waytoagi.feishu.cn/docx/GHDEdfcagovgdwxRmOwcwdaEnCe) · 风格：城市荧光剪影 / Style: 城市荧光剪影
+09. [决策考古档案](https://waytoagi.feishu.cn/docx/GHDEdfcagovgdwxRmOwcwdaEnCe) · 风格：橙色生活分镜 / Style: 橙色生活分镜
     ![决策考古档案](case-images-restyled/09-aj-decision-archaeology.png)
-10. [灵感到成品追踪器](https://waytoagi.feishu.cn/docx/M4XwdKvyAo8Kx0xiUmRcG40ynqg) · 风格：黑白日历拼格 / Style: 黑白日历拼格
+10. [灵感到成品追踪器](https://waytoagi.feishu.cn/docx/M4XwdKvyAo8Kx0xiUmRcG40ynqg) · 风格：复古照片荧光涂鸦 / Style: 复古照片荧光涂鸦
     ![灵感到成品追踪器](case-images-restyled/10-aj-idea-to-output-tracker.png)
 11. [个人工作操作系统日报](https://waytoagi.feishu.cn/docx/N70odGzRAoD1XvxEFrbcIjBFnkg) · 风格：像素梦境 / Style: 像素梦境
     ![个人工作操作系统日报](case-images-restyled/11-aj-work-os-daily.png)
