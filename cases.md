@@ -2,16 +2,16 @@
 
 所有案例均为独立飞书文档，日期为 2026-09-24 演练。 / Each case is an independent Feishu document from the 2026-09-24 rehearsal.
 
-01. [每日一张人生海报](https://waytoagi.feishu.cn/docx/IKu4d0E3JoEb7GxAXTCctHBQnNb) — `daily-life-poster`
-02. [一周七格漫画](https://waytoagi.feishu.cn/docx/Myg2d1tR9o6oLTxdR9Kcnzq8neg) — `weekly-seven-panel-comic`
-03. [深夜版日记](https://waytoagi.feishu.cn/docx/V8rLdQuWdou9xUxYMfuclGmanih) — `late-night-diary`
-04. [周末生活回放](https://waytoagi.feishu.cn/docx/CXktdNal1of4HkxGLRKcUMvQnIh) — `weekend-life-replay`
-05. [情绪天气图](https://waytoagi.feishu.cn/docx/YwTndPKrboRzAFxb3fWcMk2un8b) — `mood-weather-map`
-06. [人生进度条](https://waytoagi.feishu.cn/docx/Y5O5dW24BoVmYMx9FtRcAjS8noc) — `life-progress-bar`
-07. [项目连续剧](https://waytoagi.feishu.cn/docx/N6LndxmvbocbXWxWhuZcx8W4nFe) — `project-serial`
-08. [会议变漫画](https://waytoagi.feishu.cn/docx/YvKvd6890oa6IjxJLHtco2AanVe) — `meeting-comic`
-09. [决策考古档案](https://waytoagi.feishu.cn/docx/GHDEdfcagovgdwxRmOwcwdaEnCe) — `decision-archaeology`
-10. [灵感到成品追踪器](https://waytoagi.feishu.cn/docx/M4XwdKvyAo8Kx0xiUmRcG40ynqg) — `idea-to-output-tracker`
+01. [每日一张人生海报](https://waytoagi.feishu.cn/docx/IKu4d0E3JoEb7GxAXTCctHBQnNb) — `aj-daily-life-poster`
+02. [一周七格漫画](https://waytoagi.feishu.cn/docx/Myg2d1tR9o6oLTxdR9Kcnzq8neg) — `aj-weekly-seven-panel-comic`
+03. [深夜版日记](https://waytoagi.feishu.cn/docx/V8rLdQuWdou9xUxYMfuclGmanih) — `aj-late-night-diary`
+04. [周末生活回放](https://waytoagi.feishu.cn/docx/CXktdNal1of4HkxGLRKcUMvQnIh) — `aj-weekend-life-replay`
+05. [情绪天气图](https://waytoagi.feishu.cn/docx/YwTndPKrboRzAFxb3fWcMk2un8b) — `aj-mood-weather-map`
+06. [人生进度条](https://waytoagi.feishu.cn/docx/Y5O5dW24BoVmYMx9FtRcAjS8noc) — `aj-life-progress-bar`
+07. [项目连续剧](https://waytoagi.feishu.cn/docx/N6LndxmvbocbXWxWhuZcx8W4nFe) — `aj-project-serial`
+08. [会议变漫画](https://waytoagi.feishu.cn/docx/YvKvd6890oa6IjxJLHtco2AanVe) — `aj-meeting-comic`
+09. [决策考古档案](https://waytoagi.feishu.cn/docx/GHDEdfcagovgdwxRmOwcwdaEnCe) — `aj-decision-archaeology`
+10. [灵感到成品追踪器](https://waytoagi.feishu.cn/docx/M4XwdKvyAo8Kx0xiUmRcG40ynqg) — `aj-idea-to-output-tracker`
 11. [个人工作操作系统日报](https://waytoagi.feishu.cn/docx/N70odGzRAoD1XvxEFrbcIjBFnkg) — `aj-work-os-daily`
 12. [协作关系地图](https://waytoagi.feishu.cn/docx/BCWYdEIkuoeLuixWqYZc2YlMnqc) — `aj-collaboration-map`
 13. [任务变故事](https://waytoagi.feishu.cn/docx/LR0ZdnUCJoDx3txq7gHcpdCCned) — `aj-task-story`
